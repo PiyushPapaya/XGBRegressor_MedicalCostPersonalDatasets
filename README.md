@@ -1,12 +1,12 @@
-# XGBRegressor – Medical Cost Prediction
+# XGBRegressor: Predicting Medical Costs
 
-This project uses an **XGBRegressor** model to predict individual health insurance costs based on demographic, lifestyle, and regional factors. The model is trained on the [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance).
+Based on demographic, lifestyle, and geographic factors, this project forecasts individual health insurance costs using a **XGBRegressor** model. The [Medical Cost Personal Dataset](https://www.kaggle.com/datasets/mirichoi0218/insurance) is used to train the model.
 
 ---
 
 ## About the Dataset
 
-The dataset contains **1338 records** and **7 features**, capturing personal and lifestyle information that influence insurance costs.
+With **1338 records** and **7 features**, the dataset captures lifestyle and personal data that affects insurance premiums.
 
 ### Features
 
